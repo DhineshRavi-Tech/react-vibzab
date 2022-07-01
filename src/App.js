@@ -162,7 +162,7 @@ export default function App() {
         <TableHeaderRow />
         <TableEditRow />
         <TableEditColumn
-        width={170}
+          width={170}
           showAddCommand
           showEditCommand
           showDeleteCommand
